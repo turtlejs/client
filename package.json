@@ -9,7 +9,7 @@
   "author": "Rose Hall",
   "license": "ISC",
   "dependencies": {
-    "cc-tweaked-types": "^0.4.0",
+    "cc-tweaked-types": "file:../cc-tweaked-types",
     "lua-types": "^2.10.1"
   },
   "turtlejs": true
